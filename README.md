@@ -72,7 +72,7 @@ After execution, a `players.csv` file will be created on the same folder where t
 
 ## 📎 Additional Notes
 
-- The script includes a **10-second delay** between requests to respect Transfermarkt’s servers and avoid being blocked.
+- The script includes a **10-second delay** between requests to respect Transfermarkt’s servers and avoid being blocked. (if you want faster results you can try lowering the seconds a little bit or remove the delay too, but the server may kick you out)
 - If Transfermarkt changes its HTML structure, you may need to update the HTML selectors in the script.
 - This project was created for educational purposes and as part of a personal portfolio.
 
